@@ -12,6 +12,7 @@ WHERE low_fats = 'Y'
 AND recyclable = 'Y';
 
 ## 584 - Find Customer Referee
+
 ```sql
 SELECT name 
 FROM Customer 
