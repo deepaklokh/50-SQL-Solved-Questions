@@ -1,4 +1,38 @@
-# SQL Interview Questions and Answers
+# 🧠 SQL LeetCode 50 – Solved by Deepak Lokhande
+
+![LeetCode](https://img.shields.io/badge/LeetCode-SQL%2050%20Questions-orange)
+![Status](https://img.shields.io/badge/Progress-Completed-brightgreen)
+![Language](https://img.shields.io/badge/Language-SQL-blue)
+![Profile](https://img.shields.io/badge/Made%20by-Deepak%20Lokhande-yellow)
+
+---
+
+Welcome to my **SQL LeetCode 50 Solutions**!  
+Here, you'll find  clean SQL answers** to the 50 most common and beginner-to-intermediate LeetCode SQL problems.
+
+> 💡 Each problem includes:
+> - Problem title  
+> - SQL solution  
+
+---
+
+
+# 📌 Why This Project?
+> - ✔️ Build strong SQL fundamentals
+> - ✔️ Prepare for data analyst & database job interviews
+> - ✔️ Practice clean and optimized queries
+> -✔️ Learn by solving real-world style SQL questions
+
+
+#🙋‍♂️ About Me
+> - Deepak Lokhande
+> - 🎯 Data Analyst | Ex-Trader | SQL, Python, Excel, Power BI
+> - 🔗 LinkedIn
+> - 📬 deepak50384297@gmail.com
+
+#⭐️ Show Some Love!
+If this helped you, give it a ⭐️ and follow me on GitHub for more cool projects and SQL content!
+
 
 
 ## 🧠 1757. Recyclable and Low Fat Products
