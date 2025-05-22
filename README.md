@@ -1,1 +1,1 @@
-# 50-SQL-Solved-Questions
+# LEETCODE 50-SQL-Solved-Questions
