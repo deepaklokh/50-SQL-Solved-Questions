@@ -1,6 +1,5 @@
 # SQL Interview Questions and Answers
 
-This section contains commonly asked SQL questions and their answers with explanations.
 
 ---
 
