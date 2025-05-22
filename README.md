@@ -1,3 +1,16 @@
+# SQL Interview Questions and Answers
+
+This section contains commonly asked SQL questions and their answers with explanations.
+
+---
+
+## 🧠 Question 1: Retrieve all customers who made a purchase in 2023
+
+```sql
+SELECT *
+FROM orders
+WHERE YEAR(order_date) = 2023;
+
 1757. Recyclable and Low Fat Products
 ```
 SELECT product_id
