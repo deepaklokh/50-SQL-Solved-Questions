@@ -11,10 +11,8 @@ FROM Products
 WHERE low_fats = 'Y'
 AND recyclable = 'Y';
 
-584 - Find Customer Referee
-sql
-Copy
-Edit
+## 584 - Find Customer Referee
+```sql
 SELECT name 
 FROM Customer 
 WHERE referee_id != 2 OR referee_id IS null;
